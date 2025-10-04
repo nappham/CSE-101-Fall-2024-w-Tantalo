@@ -1,0 +1,200 @@
+//----------------------------------------------
+// Graph.c
+// Nathan Pham
+// UserID: nappham
+// Student ID: 2069891
+// Assignment: 3
+//----------------------------------------------
+
+#include<stdio.h>
+#include<stdlib.h>
+#include"Graph.h"
+
+/*** Constructors-Destructors  ***/
+Graph newGraph(int n) {
+    Graph G = malloc(sizeof(GraphObj));
+    G->neighbor = malloc((n+1) * sizeof(List));
+    G->color = malloc((n+1) * sizeof(int));
+    G->parent = malloc((n+1) * sizeof(int));
+    G->discover = malloc((n+1) * sizeof(int));
+    G->finish = malloc((n+1) * sizeof(int));
+    G->order = n;
+    G->size = 0;
+    G->time = 0;
+ 
+    for (int x = 1; x < n + 1; x++) {
+        G->neighbor[x] = newList();
+        G->color[x] = WHITE;
+        G->parent[x] = NIL;
+	G->discover[x] = UNDEF;
+	G->finish[x] = UNDEF;
+    }
+    return G;
+}
+
+void freeGraph(Graph *pG) {
+    if (pG != NULL || *pG != NULL) {
+        for (int x = 1; x < (*pG)->order + 1; x++) {
+            freeList(&((*pG)->neighbor[x]));
+        }
+        free((*pG)->neighbor);
+        free((*pG)->color);
+        free((*pG)->parent);
+        free((*pG)->discover);
+	free((*pG)->finish);
+        free(*pG);
+        *pG = NULL;
+    }
+}
+
+/*** Access functions ***/
+int getOrder(Graph G) {
+    return G->order;
+}
+
+int getSize(Graph G) {
+    return G->size;
+}
+
+int getParent(Graph G, int u) {
+    return G->parent[u];
+}
+
+int getDiscover(Graph G, int u) {
+	return G->discover[u];
+}
+
+int getFinish(Graph G, int u) {	
+	return G->finish[u];
+}
+
+
+/*** Manipulation produces ***/
+void addEdge(Graph G, int u, int v) {    
+    moveFront(G->neighbor[u]);
+    if (index(G->neighbor[u]) == -1) {
+        append(G->neighbor[u], v);
+    } else {
+            while (index(G->neighbor[u]) != -1) {
+                if (get(G->neighbor[u]) > v) {
+                        insertBefore(G->neighbor[u], v);
+                        break;
+                }
+                moveNext(G->neighbor[u]);
+                if (index(G->neighbor[u]) == -1) {
+                        append(G->neighbor[u], v);
+                        break;
+                }
+         }
+    }
+	moveFront(G->neighbor[v]);
+    if (index(G->neighbor[v]) == -1) {
+        append(G->neighbor[v], u);
+    } else {
+           while (index(G->neighbor[v]) != -1) {
+                if (get(G->neighbor[v]) > u) {
+                        insertBefore(G->neighbor[v], u);
+                        break;
+                }
+                moveNext(G->neighbor[v]);
+                if (index(G->neighbor[v]) == -1) {
+                        append(G->neighbor[v], u);
+						return;
+                }
+	    }
+    }
+    G->size += 1;
+}
+
+void addArc(Graph G, int u, int v) {
+    moveFront(G->neighbor[u]);
+    if (index(G->neighbor[u]) == -1) {
+    	append(G->neighbor[u], v);
+    } else {
+    	while(index(G->neighbor[u]) != -1) {
+		if (get(G->neighbor[u]) == v) {
+			return;
+		}
+		if (get(G->neighbor[u]) > v) {
+			insertBefore(G->neighbor[u], v);
+			break;
+		}
+		moveNext(G->neighbor[u]);
+		if (index(G->neighbor[u]) == -1) {
+			append(G->neighbor[u], v);
+			break;
+		}
+	}
+    }
+    G->size += 1;
+}
+
+void Visit(Graph G, List S, int x) {
+        G->discover[x] = ++G->time;
+        G->color[x] = GRAY;
+        moveFront(G->neighbor[x]);
+        while (index(G->neighbor[x]) != -1) {
+                int y = get(G->neighbor[x]);
+                if (G->color[y] == WHITE) {
+                        G->parent[y] = x;
+                        Visit(G, S, y);
+                }
+                moveNext(G->neighbor[x]);
+        }
+        G->color[x] = BLACK;
+        G->finish[x] = ++G->time;
+        prepend(S, x);
+}
+
+void DFS(Graph G, List S) {
+	for (int x = 1; x <= G->order; x++) {
+		G->color[x] = WHITE;
+		G->parent[x] = NIL;
+	}
+	G->time = 0;
+	List cS = copyList(S);
+	clear(S);
+
+	moveFront(cS);
+	while(index(cS) != -1) {
+		if (G->color[get(cS)] == WHITE) {
+			Visit(G, S, get(cS));
+		}
+		moveNext(cS);
+	}	
+	freeList(&cS);
+}
+
+/*** Other operations  ***/
+Graph transpose(Graph G) {
+	Graph T = newGraph(G->order);
+	for (int x = 1; x <= G->order; x++) {
+		moveFront(G->neighbor[x]);
+		while (index(G->neighbor[x]) != -1) {
+			int y = get(G->neighbor[x]);
+			addArc(T, y, x);
+			moveNext(G->neighbor[x]);
+		}
+	}
+	return T;
+}
+
+Graph copyGraph(Graph G) {
+	Graph cG = newGraph(G->order);
+	for (int x = 1; x <= G->order; x++) {
+		moveFront(G->neighbor[x]);
+		while (index(G->neighbor[x]) != -1) {
+			int y = get(G->neighbor[x]);
+			addArc(cG, x, y);
+			moveNext(G->neighbor[x]);
+		}
+	}
+	return cG;
+}
+
+void printGraph(FILE* out, Graph G) {
+    for (int i = 1; i <= G->order; i++) {
+        fprintf(out, "%d: ", i); 
+	printList(out, G->neighbor[i]);
+    }
+}

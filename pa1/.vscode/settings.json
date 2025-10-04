@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "ListClient.C": "cpp",
+        "list.h": "c"
+    }
+}

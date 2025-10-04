@@ -1,0 +1,26 @@
+--- outfile1.txt	2024-12-07 14:47:04.690632702 -0800
++++ ../cse-101-public-tests/pa7/model-outfile1.txt	2024-10-10 12:02:07.492787136 -0700
+@@ -11,16 +11,16 @@
+ stultify : 6
+ synonymize : 11
+ 
+-newsrooms
+-infamonising
+-coccidae (RED)
+ bushy
++infamonising
++coccidae
+ cocknified
+-colander (RED)
++colander
+ negativeness
++newsrooms
++stultify
+ steens
+ roommates
+-reformers (RED)
+-stultify
+-synonymize (RED)
++reformers
++synonymize
+ 

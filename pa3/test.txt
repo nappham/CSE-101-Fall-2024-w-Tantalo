@@ -1,0 +1,69 @@
+void addEdge(Graph G, int u, int v) {
+    if (u == v) {
+        return;
+    }
+    if (u < 1 || v < 1 || u > G->order || v > G->order) {
+	    exit(1);
+    }
+    moveFront(G->neighbor[u]);
+    moveFront(G->neighbor[v]);
+    if (index(G->neighbor[u]) == -1) {
+    	append(G->neighbor[u], v);
+    } else {
+	    while (index(G->neighbor[u]) != -1) {
+		
+    		if (get(G->neighbor[u]) > v) {
+			insertBefore(G->neighbor[u], v);
+			break;
+		}
+		moveNext(G->neighbor[u]);
+		if (index(G->neighbor[u]) == -1) {
+			append(G->neighbor[u], v);
+			break;
+		}
+   	 } 
+    }
+    if (index(G->neighbor[v]) == -1) {
+    	append(G->neighbor[v], u);
+    } else {
+	    while (index(G->neighbor[v]) != -1) {
+    		if (get(G->neighbor[v]) > u) {	
+			insertBefore(G->neighbor[v], u);
+			break;
+		}
+		moveNext(G->neighbor[v]);
+		if (index(G->neighbor[v]) == -1) {
+			append(G->neighbor[v], u);
+		}
+	    }
+    }
+
+
+    G->size += 1;
+}
+
+void addArc(Graph G, int u, int v) {
+    if (u < 1 || v < 1 || u > G->order || v > G->order) {
+	exit(1);
+    }
+    if (u == v) {
+	    return;
+    }
+    moveFront(G->neighbor[u]);
+    if (index(G->neighbor[u]) == -1) {
+	    append(G->neighbor[u], v);
+	    return;
+    }
+    while (index(G->neighbor[u]) != -1) {
+    	if (get(G->neighbor[u]) > v) {
+		insertBefore(G->neighbor[u], v);
+		return;
+	}
+	moveNext(G->neighbor[u]);
+	if (index(G->neighbor[u]) == -1) {
+		append(G->neighbor[u], v);
+		return;
+	}
+    }
+
+}

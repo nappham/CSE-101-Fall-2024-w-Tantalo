@@ -1,0 +1,73 @@
+//---------------------------------------------
+// WordFrequency.cpp
+// Nathan Pham
+// UserID: nappham
+// Student ID: 2069891
+// Assignment: 8
+//----------------------------------------------
+
+#include <iostream>
+#include <fstream>
+#include <string>
+#include "Dictionary.h"
+
+using namespace std;
+
+int main(int argc, char* argv[]) {
+    size_t start, end, length;
+    ifstream in;
+    ofstream out;
+    string line, line2;
+    Dictionary D;
+
+    if( argc != 3 ){
+        cerr << "Usage: " << argv[0] << " <input file> <output file>" << endl;
+        return(EXIT_FAILURE);
+    }
+
+    in.open(argv[1]);
+    if( !in.is_open() ){
+        cerr << "Unable to open file " << argv[1] << " for reading" << endl;
+        return(EXIT_FAILURE);
+    }
+    out.open(argv[2]);
+    if( !out.is_open() ){
+        cerr << "Unable to open file " << argv[2] << " for writing" << endl;
+        return(EXIT_FAILURE);
+    }
+    string delim = " \t\\\"\',<.>/?;:[{]}|`~!@#$%^&*()-_=+0123456789";
+
+while (getline(in, line)) {
+    length = line.length();
+    start = 0;
+
+    do {
+        start = min(line.find_first_not_of(delim, start), length);
+        end = min(line.find_first_of(delim, start), length);
+
+        if (start < length) {
+            line2 = line.substr(start, end - start);
+	    string result = "";
+	    for (char ch: line2) {
+	    	result += tolower(ch);
+	    }
+	    line2 = result;
+
+            if (D.contains(line2)) {
+                D.getValue(line2)++;
+            } else {
+                D.setValue(line2, 1);
+            }
+        }
+
+        start = end + 1;
+    } while (start < length);
+}
+
+    out << D << endl;
+    D.clear();
+    in.close();
+    out.close();
+
+    return EXIT_SUCCESS;
+}

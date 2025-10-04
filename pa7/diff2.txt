@@ -1,0 +1,1673 @@
+--- outfile2.txt	2024-12-07 14:47:05.378632693 -0800
++++ ../cse-101-public-tests/pa7/model-outfile2.txt	2024-10-10 12:02:07.496787136 -0700
+@@ -999,1004 +999,1004 @@
+ zoot : 216
+ zumboorucks : 406
+ 
+-marat
+-goethite
+-crafts (RED)
+-capellines
+-archonships (RED)
+-alalia
+-adjudicative
+-acuminated
++eerie
++bat
++archonships
++aestivate
++aerates
++abydos
++abacus
+ abscinded
+-abacus (RED)
+-abydos (RED)
++acuminated
+ adjectival
+-addorsed (RED)
+-adjective (RED)
+-aerates
+-admit (RED)
+-admissibilities
++addorsed
+ admonitors
+-adynamic (RED)
+-affeers
+-aestivate (RED)
+-aggravating (RED)
++adjudicative
++adjective
++admissibilities
++admit
++adynamic
++archdeacon
+ antedated
+-ammiral (RED)
+-alkyls
++alalia
++affeers
++aggravating
+ alannahs
+-allsorts (RED)
++ammiral
+ allocates
+-allotriomorphic (RED)
++alkyls
++allsorts
++allotriomorphic
+ amabile
+-alpargatas (RED)
+-ambrosian (RED)
+-angekoks
++alpargatas
++ambrosian
+ anathematized
+-analogise (RED)
+-annualize (RED)
+-ankle
+-angulation (RED)
++analogise
++angekoks
+ anteceded
+-aquilegias
++ankle
++angulation
++annualize
++apraxia
++anthelmintics
+ apostrophus
+-anthelmintics (RED)
+-apraxia (RED)
++aquilegias
+ araliaceae
+-arabian (RED)
+-archdeacon (RED)
+-bat
+-autocade
+-ark (RED)
++arabian
+ areopagitic
+ ardente
+-aristarchus
+-arianising (RED)
++autocade
+ astringents
+-assembly (RED)
+-armband
+-arkansan (RED)
+-asians (RED)
++aristarchus
++arianising
++ark
+ associated
++assembly
++armband
++arkansan
++asians
++atropia
++atheology
+ atraments
+-atheology (RED)
+-atropia (RED)
+-bacchanalians (RED)
+-avaricious
++bacchanalians
+ autochthony
+-awesome (RED)
+-avoyers
++avaricious
+ ayu
+-babbit (RED)
++awesome
++avoyers
++babbit
++barmiest
+ banderilleros
++balthazar
++bailor
+ balladmongers
+-bailor (RED)
+-balthazar (RED)
+-barbershop (RED)
++barbershop
+ bangles
+-barmiest
+-barchester (RED)
+-barnard (RED)
+-border (RED)
+-biotically
+-bedcover (RED)
+-beaufet
++barchester
++barnard
++capellines
++cancelling
++bract
++border
++biophore
+ battology
+-bathorses (RED)
+-bedabbles
++bathorses
+ bilges
+-bevelments (RED)
++bergamot
++bedcover
++bedabbles
++beaufet
+ bemazed
+-befool (RED)
+-bergamot (RED)
++befool
+ bildungsroman
+-biophore
+-binders (RED)
+-biophysic (RED)
+-boart
+-blanks
+-blizzardy (RED)
++bevelments
++binders
+ boob
+-bombinated (RED)
+-boots (RED)
+-bubblier
+-bract
++biotically
++biophysic
++blanks
++boart
++blizzardy
++bombinated
++boots
+ boronias
+ breakdown
+-briskening (RED)
+-cancelling
+-calash (RED)
++bubblier
++briskening
+ buckingham
++calash
+ campodea
+-campanile (RED)
++campanile
+ cannibalized
+-canfuls (RED)
+-cantreds (RED)
+-christened
+-cervixes
+-cassio (RED)
++canfuls
++cantreds
++crotcheted
++crafts
++caulinary
++cassio
+ carcinomatosis
+-capsicums (RED)
++capsicums
++capillarities
+ capitulants
+-capillarities (RED)
+-capo (RED)
++capo
+ caranx
+ carotenoid
+-caryopsis (RED)
+-caulinary
+-catmints (RED)
++caryopsis
++catmints
+ catallactics
+-cataloguizing (RED)
++cataloguizing
+ catnip
++christened
++chop
++cervixes
+ cavils
+-cauterant (RED)
+-chickarees
++cauterant
++cheapener
++chaldea
+ chamades
+-chaldea (RED)
+-cheapener (RED)
+-chop (RED)
++chickarees
+ chivaree
+-chimley (RED)
+-chocoholics (RED)
++chimley
++chocoholics
+ chrisom
+-computes (RED)
+-cocks
+-coadjacent (RED)
++communalize
++climatic
+ clerkdom
+-chromoscope (RED)
+ chrome
++chromoscope
+ circumspect
+-chukor (RED)
+-clave (RED)
+-climatic
++chukor
++clave
++cocks
+ cobaltite
+ coax
+-coarsened (RED)
++coadjacent
++coarsened
+ cockerels
+-colleens (RED)
+-cohobated
+-coherer (RED)
++collaring
++coherer
+ cockscombs
+-cohibiting
+-collaring (RED)
+ coky
+-collapsars (RED)
++cohibiting
++cohobated
++collapsars
++comancheros
++colleens
+ collectivity
+-command
+-comancheros (RED)
+ colourization
++command
+ comedone
+-come (RED)
+-compellable (RED)
+-communalize
+-commercialism (RED)
+-compaginating (RED)
++come
++commercialism
++computes
++compellable
++compaginating
+ compensator
+ continuate
+-congruity
+ cones
+-consignments (RED)
++congruity
++consignments
+ conservably
+ construability
+-continentalists (RED)
+-coprosterol (RED)
++continentalists
+ controvertibly
+ contribution
+-contrafagotto (RED)
++contrafagotto
++coprosterol
+ copered
+-covetously
+-cotted (RED)
++cotted
+ corporealises
+-cotillions (RED)
+-couturiere
++cotillions
+ crackerjack
+-eerie
+-deliberating
+-cryptogams
+-crepuscular
+-crenellation (RED)
+-created
+-cramoisy (RED)
+-creatural (RED)
++covetously
++couturiere
+ crenulated
+-crotcheted (RED)
++cramoisy
++crenellation
++creatural
++created
++crepuscular
+ crop
+-crispatures (RED)
++crispatures
++decibel
++cryptogams
+ crustation
+-crownlet (RED)
+-cryobiologists (RED)
+-dante (RED)
++crownlet
++cryobiologists
++decerebration
+ dalglish
+-cushiony (RED)
++cushiony
++cubitus
+ cumbrance
+-cubitus (RED)
+-curbsides (RED)
++curbsides
+ czarist
+ dandy
+-damascus (RED)
+-decibel
++damascus
++dante
++dashing
+ dearths
+-dashing (RED)
+-decerebration (RED)
++discrepant
++dial
++degrader
++deciduae
+ decisions
+-deciduae (RED)
+-degrader (RED)
+-discrepant (RED)
+-detestation
+-desperately
+-deposes (RED)
++deliberating
++detainees
++deposes
+ deployed
+-democratizes (RED)
+-depopulating (RED)
++democratizes
++depopulating
++desperately
+ dermatophyte
+-depurate (RED)
+-desexualise (RED)
+-detainees
+-dial (RED)
+-deviatory
++depurate
++desexualise
++detestation
+ devalues
++deviatory
+ devolve
+-devisers (RED)
++devisers
+ dioptre
+-diktats (RED)
+ diathermacy
+-diastole (RED)
++diastole
+ dioecious
+-dischargers (RED)
++diktats
++dischargers
+ directrixes
+ discolour
+-discomycetous (RED)
++discomycetous
++discuses
+ divellicate
+ disruptions
+-disgraceful (RED)
+-discuses
+-disentrains (RED)
++disgraceful
++disentrains
+ dishonourableness
+-disquisitionary (RED)
++disquisitionary
+ disunite
+-dissensions (RED)
+-disyoke (RED)
+-dsc
+-dozenth (RED)
++dissensions
++disyoke
++dunkerque
++duddies
++dozenth
+ donne
+-docimastic (RED)
+-dorted (RED)
++docimastic
++dorted
+ drollishness
+-drecky (RED)
+-druids (RED)
+-dunkerque (RED)
+-duddies
++drecky
++dsc
++druids
+ echoers
+-ectropium (RED)
+-fianchettoing
+-epexegetic (RED)
+-emeralds
++ectropium
++lagomorphic
++goethite
++emden
+ electroencephalograph
+ egoists
+-effectually (RED)
+-eighty (RED)
+-else (RED)
++effectually
++eighty
++else
+ elland
+-elinor (RED)
++elinor
+ embus
+-emboldeners (RED)
+-emden (RED)
++emboldeners
++flotant
++emeralds
++fetishised
++exilements
++eringos
+ enology
+-enforce (RED)
++endogens
++enamors
+ enchanters
+-enamors (RED)
+-endogens (RED)
++enforce
+ enneahedron
++epexegetic
+ enviable
+-enteroliths (RED)
+-enwinds (RED)
+-exilements
+-eringos
+-epizoan (RED)
+-episcopalian
++enteroliths
++enwinds
+ erastianism
+-eremital (RED)
+-esuriency (RED)
+-erotemes
++epizoan
++episcopalian
++eremital
+ exegetists
+-evertors (RED)
+-exhorter (RED)
+-eyelashes (RED)
+-exponentiation
+-expeditions (RED)
+-exorcized
++esuriency
++erotemes
++evertors
++exhorter
++featly
++favous
+ explains
+-expends (RED)
++exorcized
++expeditions
++expends
++exponentiation
++eyelashes
+ extollers
+-exprobratory (RED)
+-featly
++exprobratory
+ fallow
+-fahlore (RED)
+-favous (RED)
+-fetishised (RED)
++fahlore
+ felafels
+-fennecs (RED)
++fennecs
++fianchettoing
+ feudalize
+-foghorn
+-flimped (RED)
++flimped
+ flamming
+ fielding
+-flaccidity (RED)
++flaccidity
+ flashiest
+-flanch (RED)
+-fletching (RED)
+-flotant
++flanch
++fletching
+ flossy
+-foaled (RED)
++gliomas
++foghorn
+ flowerpot
+-fluidising (RED)
++foaled
++fluidising
+ foamily
+-futurity (RED)
+-freebasing
+-foss (RED)
++foss
+ foliature
+-forgeable (RED)
++forgeable
++futurity
++frisian
+ foxiest
+-frisian (RED)
+ freet
+-freezes (RED)
++freebasing
++freezes
+ fro
+-frowstier (RED)
++frowstier
+ generant
+-gaspings (RED)
++geitonogamy
++gaspings
+ gaggers
+-gambades (RED)
++gambades
++gasthause
+ geat
+-gasthause (RED)
+-geitonogamy (RED)
+-glanders (RED)
++glanders
+ geothermometer
+-genuineness (RED)
++genuineness
++glyptography
+ glutaeus
+-gliomas (RED)
+-glyptography (RED)
+-indistinguishable
+-hickok
+-guppy (RED)
+-gratis
+-gracefuller
+-gorgonised (RED)
++grandsire
++gorgonised
+ goglets
+-gooseberry (RED)
++gooseberry
++gracefuller
+ gownsman
+-governance (RED)
+-grandsire
+-gramashes (RED)
++governance
++gramashes
++guppy
++guidebooks
+ guarantor
++gratis
++guaiacums
++greengrocery
+ gru
+-greengrocery (RED)
+-guaiacums (RED)
+-guidebooks (RED)
+ guffaws
+ gunyah
+-gumshields (RED)
+-haruspicate
++gumshields
++hickok
++herdesses
+ hangzhou
+-halverses (RED)
++hames
+ habituate
++halverses
+ handclasp
+-hames (RED)
+-hangdogs (RED)
++hangdogs
++heortology
++hayloft
++haruspicate
++harpooned
+ harper
+-hardscrabble (RED)
+-harpooned (RED)
+-heortology (RED)
+-headmost
++hardscrabble
+ hawk
+-hasps (RED)
+-hayloft (RED)
+-hemlock (RED)
+-heartwoods
+-heavenlier (RED)
++hasps
+ hendecagons
+-herdesses
++headmost
++heartwoods
++hemlock
++heavenlier
+ hephthemimeral
++heretically
++hewing
+ hesitative
+-heretically (RED)
+-hewing (RED)
+-imagoes
+-humboldt (RED)
+-horsings
+-honors (RED)
++knubby
++karats
++jodelling
++hydrogenises
++humboldt
++housesits
+ hierocracy
+-hierarchies (RED)
++hierarchies
++horsings
+ horrifies
+-housesits
+-housesat (RED)
+-humber (RED)
+-hydrogenises
++honors
++housesat
++humber
++hummocks
+ hustler
+-hummocks (RED)
+-hutment (RED)
+-iceman (RED)
++hutment
++inspected
++ingratiated
++indistinguishable
++imagoes
+ hysterectomizing
+-hyperons (RED)
++hyperons
++iceman
+ illywhacker
+-idee (RED)
+-improvidence (RED)
+-impersonating
++idee
+ impedimental
+-imperfection (RED)
++improvidence
++impersonating
++imperfection
++imperturbation
+ impostumating
+-imperturbation (RED)
+-impressing (RED)
++impressing
++indigoes
+ incriminating
+ incessant
+-inalterableness (RED)
+-indigoes
+-lanugo
+-jodelling (RED)
+-inspected
+-inflictions (RED)
+-induplications
++inalterableness
++infinitary
+ indoleacetic
+-individuations (RED)
+-infatuations (RED)
++individuations
++induplications
+ infallibly
+-ineligible (RED)
+-infinitary
++ineligible
++infatuations
++inflictions
+ inlier
+-ingratiated
+-inhume (RED)
+-insemination (RED)
++inhume
+ inroads
+-innate (RED)
++innate
++insemination
+ insolation
+-investigations (RED)
+-intermediately
++ionised
++investigations
+ interdash
++intermediately
+ inveraray
+-intermezzos (RED)
+-invertin (RED)
+-isoxsuprine
+-ionised (RED)
++intermezzos
++invertin
+ invocatory
+-investitures (RED)
+-iona (RED)
++investitures
++iona
++jawans
++isoxsuprine
+ isoantibodies
+-irises (RED)
+-jawans (RED)
++irises
+ jacobin
+-janet (RED)
++janet
+ jinglier
+-jinnee (RED)
+-khediva
+-karats
+-jostle (RED)
+-jokey
++jinnee
+ jussive
+-jumboising (RED)
+-keddahs (RED)
++jostle
++jokey
++jumboising
++knotters
++khediva
++keddahs
+ kbyte
+ keratoplasty
+-kernels (RED)
+-knubby
+-kittenishness (RED)
++kernels
+ kinaesthesis
+-kissogram (RED)
+-knotters
+-lagomorphic (RED)
++kittenishness
++kissogram
++ladlefuls
++laciest
+ laconic
+-laciest (RED)
+-ladlefuls (RED)
+-laminarian
+-lagune (RED)
+-landaulette (RED)
++scooper
++recrudesces
++peritrich
++palomino
++marat
++manageresses
+ limitable
+-legoland (RED)
++lanugo
++laminarian
++lagune
++landaulette
+ launderer
+-lastages (RED)
+-lar
+ latescence
+-laughable (RED)
++lar
++lastages
++laughable
++lere
++legoland
++leapfrog
+ ledge
+-leapfrog (RED)
+-legitimatised (RED)
+-lichenist
+-leotard (RED)
++legitimatised
+ leila
+-leirs (RED)
++leotard
++leirs
++lichenist
+ levelly
+-lere (RED)
+-liaisons (RED)
++liaisons
+ lifespans
+-lily (RED)
+-maginot (RED)
+-lucumos
+-lonesomeness (RED)
++lily
++mainstreeting
++lingua
++lonesomeness
+ lintseeds
+-lingua (RED)
+-lithoclasts (RED)
++lithoclasts
++lucumos
+ loophole
+-loy (RED)
+-lustring (RED)
++loy
++maginot
++lustring
+ lurs
+-lunges (RED)
++lunges
+ mafeking
+-manageresses
+-mainstreeting
+ manholes
+-mansion (RED)
+-scooper
+-peritrich
+-notoriously (RED)
++mansion
+ misfeeding
++misapprehended
++masochism
++milkshakes
+ microlight
+-menage (RED)
++menage
+ mediaevally
+-masochism
+ meerkats
+-melomaniac (RED)
++melomaniac
+ metonymical
+-metabolises (RED)
++metabolises
+ mentis
+-messina (RED)
++messina
+ metalinguistics
++metoposcopist
+ meve
+-metoposcopist (RED)
+-miched (RED)
+-misapprehended (RED)
+-milkshakes
++miched
++mikes
++micturate
+ migratory
+-micturate (RED)
+-mikes (RED)
+-mimmest (RED)
+-millocrats
+ minimizes
+-misallege (RED)
++millocrats
++mimmest
++misallege
+ miscredit
++misbelieved
++misapprehension
+ misbehavior
+-misapprehension (RED)
+-misbelieved (RED)
+ misdeemful
+ mortification
++mordacities
+ monolatry
+-mitigations (RED)
++mistresses
++misspeaks
+ mistell
+-misspeaks (RED)
+-mistresses (RED)
++mitigations
++monocycles
+ monochasia
+-momentariness (RED)
+-monocycles (RED)
+-morbillous (RED)
++momentariness
++morbillous
+ monotelephone
+-moonwalks (RED)
+-mordacities
+-naiver (RED)
+-musculature
++moonwalks
++oogeny
++newfoundlanders
+ multuring
+-muddy (RED)
+-murmurously (RED)
++muddy
++musculature
++murmurously
+ mycetomas
+-musicker (RED)
+-newfoundlanders
++musicker
++naiver
+ nationalized
+-nameable (RED)
+-neologism (RED)
+-noiselessly (RED)
++nameable
++neologism
++notoriously
++noiselessly
+ njamena
+ notices
+-notchelling (RED)
+-palomino
+-operatises (RED)
+-obstreperating
++notchelling
+ numismatologist
+ nozzles
++obstreperating
++nutjobbers
+ nutrition
+-nutjobbers (RED)
+-obey (RED)
+-omnific
+-octofid (RED)
++obey
++octofid
+ octavian
++omnific
+ old
+-officialdom (RED)
+-oogeny
+-oo (RED)
++officialdom
++oo
+ outswims
++operatises
+ ouistiti
+-osage (RED)
+-opuntia
+-optologist (RED)
+ ostracodous
+-outjest (RED)
+-outdure
++osage
++opuntia
++optologist
+ outperforming
+-outrooted (RED)
+-overthrow (RED)
++outjest
++outdure
++outrooted
+ overproduce
+ overpictured
+-overcatches (RED)
++overcatches
++overwearies
+ oversubscription
++overthrow
+ oxgangs
+-overwearies
+-overwears (RED)
+-packets (RED)
+-oxytone
+-packeted (RED)
++overwears
+ paco
+-palaeoanthropus (RED)
++oxytone
++packets
++packeted
++palaeoanthropus
+ payers
+-parbuckling (RED)
++parochializing
++panmixis
+ pambiness
+ palooka
+-panmixis
+-pamperedness (RED)
+-papacies (RED)
+-patchable
+-parochializing (RED)
++pamperedness
++parbuckling
++papacies
+ parenthesising
++patchable
++pastors
++partitively
+ passaged
+-partitively (RED)
+-pastors (RED)
+ patinations
++perfectas
+ percussive
+-pele (RED)
++pemican
+ pedantisms
++pele
+ peppergrass
+-pemican (RED)
+-perceive (RED)
+-perfectas
+-recrudesces
+-pretentiously (RED)
+-polyzoa
+-pinto (RED)
++perceive
++pretentiously
++pestful
++pinto
+ photocopies
+ petrels
+-pestful (RED)
+-phonogram (RED)
+-picturesquely (RED)
+-physiognomists
+-photosynthesises (RED)
+-phytogeny (RED)
++phonogram
+ piles
+-plouter
+-pirating (RED)
++picturesquely
++phytogeny
++photosynthesises
++physiognomists
++polyzoa
++polyandrous
+ pioy
+-piripiri
+-planular (RED)
+-polyandrous (RED)
+ policing
+-poeticules (RED)
+-poltroon (RED)
++plouter
++pirating
++piripiri
++planular
++poeticules
++poltroon
+ polyarch
+-polyphonists (RED)
+-possess (RED)
+-positive
++polyphonists
++preside
++possess
+ ponderancy
+-porcelainising (RED)
+ positively
++positive
++porcelainising
+ premises
+-postcode (RED)
++postcode
+ postcards
++prearranges
+ potent
+-postnatal (RED)
+-prearranges (RED)
+-preside
+-prepuces (RED)
++postnatal
++prepuces
++rearousal
+ pumpkin
+ progymnasium
+-princoxes (RED)
+-prevene
+ professorially
+-procreators (RED)
+-proficiently (RED)
+-proselytisers (RED)
++prevene
++princoxes
++procreators
++proficiently
++proselytisers
+ proofless
+ provisioning
+-prosiest (RED)
+-pullulates (RED)
+-rearousal (RED)
+-rafsanjani
+-quandary (RED)
++prosiest
++pullulates
+ pursuant
++quandary
+ queasiest
+-quats (RED)
+-ramuli (RED)
++quats
++ramuli
++rafsanjani
+ raftman
+ ravines
+-raucid (RED)
++raucid
++recommittal
+ recollects
+ reattributes
+-rebadge (RED)
+-recommittal
+-reconquer (RED)
+-reorientate (RED)
++rebadge
++reconquer
++reorientate
++reists
+ regimenting
++refigures
+ redcurrant
+ recta
+-refigures (RED)
+ redeemableness
+-refectorians (RED)
++refectorians
+ reformationist
+-rejector
+-reists
+ remscheid
+-remonstrations (RED)
+-renegado (RED)
+-saith
+-rochford (RED)
++rejector
++remonstrations
++renegado
++scats
+ revelation
+-rerevise (RED)
+ repine
+ retouch
+-reset (RED)
+-revealment (RED)
+-rico (RED)
++rerevise
++reset
++revealment
++saith
++rushers
++rochford
+ rhadamanthine
+-reviews (RED)
++reviews
++rocambole
++rico
++ritornel
+ rivederci
+-ritornel (RED)
+-rocambole (RED)
+-rudeness
+-rodded (RED)
+ rocklays
++rudeness
+ rubberize
+-royster (RED)
+-rushers
+-rueful (RED)
+-sancy (RED)
+-salvadoran
++rodded
++royster
++rueful
++scamp
+ salutarily
+-saltings (RED)
++saltings
++sancy
++salvadoran
+ samba
+-scats
+-scamp (RED)
++savors
++sandworts
+ satrapic
+-sandworts (RED)
+-savors (RED)
+ scariest
++schismatizing
+ schlemiel
+-schismatizing (RED)
+-scholastic (RED)
++scholastic
++wailful
+ tertials
+-staghound
+-smooging (RED)
+-sesquipedalian
++subternatural
++smooging
+ sepium
+-searchlights (RED)
+ sculler
+-screech (RED)
+-scybala (RED)
++screech
++searchlights
++scybala
+ semicircled
+-sectarianizing (RED)
+-sensists (RED)
+-serai (RED)
++sectarianizing
++sensists
++simplifications
++serai
+ septillions
+-sequels (RED)
++sequels
++shabbles
+ sermoned
+-sermoner (RED)
+-simplifications
+-shane (RED)
++sesquipedalian
++sermoner
+ sforzando
+-setwalls (RED)
+-shabbles (RED)
++setwalls
++sherry
++shane
++signorina
+ sieger
+-sherry (RED)
+-signorina (RED)
+-slapstick (RED)
+ sing
+-skelteriness (RED)
+ slitter
+-spanning
+-sophistries (RED)
++slapstick
++skelteriness
++sternum
++staghound
+ sodomizing
+-snootful (RED)
+ snaths
+-sniggles (RED)
+ snuffy
+-sojourns (RED)
++snootful
++sniggles
++spangliest
++sojourns
+ softlanding
+-softlings (RED)
++softlings
++sophistries
+ solomonic
+-solemnisations (RED)
+-solonchak (RED)
+-sovietologists
++solemnisations
++solonchak
+ sopranino
+-sorption (RED)
+-spangliest
+-sovs (RED)
+-spirography
++sovietologists
++sorption
++sovs
+ spectators
+-splattered (RED)
++spanning
++splattered
++spirography
+ spittlebug
+-splashing (RED)
++splashing
+ spurn
+-subternatural (RED)
+-subantarctic
+-stool (RED)
+ starriest
+ stamp
+-stagings (RED)
+-stimulants (RED)
+-sternum
+-statant (RED)
++stagings
++statant
++stool
++stippling
++stimulants
++stomp
+ stipulators
+-stippling (RED)
+-stomp (RED)
+-stratagem
++subantarctic
++stoush
+ storms
+-storied (RED)
+-stoush (RED)
+-stumps (RED)
++storied
++stratagem
+ striation
+-stridulators (RED)
+ stupefaction
+-submicroscopic
++stumps
++stridulators
+ subjectivize
+-submarined (RED)
++submicroscopic
++submarined
+ subordinating
+-syrinxes
+-supersederes (RED)
++telltale
++swarmings
+ sulphurisation
+-sugared (RED)
++sugared
+ suede
+-sudamina (RED)
++sudamina
+ sulphurator
+-sugarier (RED)
++sugarier
++supersederes
+ sunburn
+-summarizes (RED)
+-supermarket (RED)
+-swarmings
+-suppliance (RED)
+-supplantation
+-supplementaries (RED)
++summarizes
++supermarket
+ sustentacular
+-surgeful (RED)
+-swamping (RED)
+-syllabic (RED)
++suppliance
++supplantation
++supplementaries
++surgeful
++swamping
++telegraphs
++syrinxes
++syphilitic
++syllabic
++swathed
+ swearword
+-swathed (RED)
+-sweltered (RED)
++sweltered
+ synding
+-synclinoriums (RED)
+-syphilitic (RED)
+-tarwhine (RED)
+-tackler
++synclinoriums
+ tachisme
+-tabernacled (RED)
+-tachygraphic (RED)
++tabernacled
++teds
++tarwhine
++tackler
++tachygraphic
+ tared
+-taeniate (RED)
+-telegraphs
+-teds (RED)
++taeniate
+ teasers
+-taxpayer (RED)
++taxpayer
++teinding
++telegas
+ telefaxes
+-teinding (RED)
+-telegas (RED)
+-telltale (RED)
+ telepheriques
+-teleostomes (RED)
+-teletypewriters (RED)
++teleostomes
++teletypewriters
+ teratoma
+-telltales (RED)
+-unmoveable (RED)
+-turkicised
+-totipalmation
+-tirrit (RED)
+-therbligs
+-theories (RED)
++telltales
++unmoveable
++unaccessible
++transportance
++tirrit
++theories
+ tessaraglot
+-theatres (RED)
+-theorisers
+-thinks (RED)
++theatres
++thinks
+ thing
+-thewes (RED)
++theorisers
++therbligs
++thewes
++thralling
++thyroglobulin
+ thymes
+-thralling (RED)
+-thyroglobulin (RED)
+-tomorrows
++toxaphene
+ tombola
+-toast (RED)
++toast
++totipalmation
+ toots
+-tootling (RED)
+-topsails (RED)
+-trisectrixes (RED)
+-transportance
+-transactors (RED)
+-toxaphene
++tomorrows
++tootling
++topsails
+ transliterate
+-transliterator (RED)
+-trental
+-trapans (RED)
+-trifocals (RED)
++transactors
++transliterator
+ trouveres
+ trollopean
+-tropophytes (RED)
++trisectrixes
++trental
++trapans
++trifocals
++tropophytes
++turkicised
+ tuillette
+-tunesmith (RED)
+-undefused
+-uncarpeted (RED)
+-unaccessible
+-twirly (RED)
++tunesmith
++twirly
+ turritella
+-turnips (RED)
++turnips
+ ukuleles
+-ubiquity (RED)
++ubiquity
++uncarpeted
+ unapproved
+-unboxes (RED)
++unboxes
++unmechanize
+ unchristianising
+ uncarts
+-unconfining
+-unconditionally (RED)
+-undecomposable (RED)
+-unities (RED)
+ unexpansively
+-undrinkable (RED)
+-underbuys
++unconfining
++unconditionally
+ unelated
+-unenthusiastic (RED)
+-ungracefully (RED)
++undefused
++undecomposable
++underbuys
++undrinkable
++unenthusiastic
++unlayered
+ unfittest
+-unexplained (RED)
++unexplained
++unities
+ unintegrated
+-unmechanize
+-unlayered
+-unmanageably (RED)
++ungracefully
++unmanageably
+ unministerial
+-wailful
+ unwelcoming
+-unsegregated
+-unnerved
+-unsubstantialise (RED)
+ unsheathing
+-unstowing (RED)
++unnerved
++unsegregated
+ untuck
+-unvanquishable (RED)
+-verbigerates (RED)
++unsubstantialise
++unstowing
++unvanquishable
++verbigerates
+ upstroke
+ upsettings
+-upbraids (RED)
+-vagabondish (RED)
++upbraids
++vampire
++vagabondish
+ upturns
+ venerated
+-vampire (RED)
+-verbids (RED)
++verbids
++wagoners
+ voltages
+ viler
++vulcanological
+ wagered
+-vulcanological (RED)
+-wagoners (RED)
+-wrathfully (RED)
+-wistly
+-wasterfully (RED)
++wrathfully
++warranty
+ wantings
+ walkings
+-wampum (RED)
+-warranty
+-whitethorn
+-webb (RED)
+-waterworks
+-waybreads (RED)
++wampum
++wistly
+ whitest
+-wheeziest (RED)
+-windstorms (RED)
++wasterfully
++waterworks
++webb
++waybreads
++wheeziest
++whitethorn
+ whithers
+-whittle (RED)
+ wintle
+-wittier
+-wittering
++windstorms
++whittle
+ wittingly
+-worrited (RED)
+-zeppelins
+-yakitoris
+-xenogenous (RED)
++wittering
++wittier
++worrited
+ wrawl
+-wrecks (RED)
++yolkier
++yakitoris
+ xenomania
+-xylophagan (RED)
++xenogenous
++wrecks
++xylophagan
++zoot
++zeppelins
++yowls
+ yowl
+-yolkier (RED)
+-yowls (RED)
+ zoographer
++zollverein
++zeroes
+ zimocca
+-zeroes (RED)
+-zollverein (RED)
+-zoot
+-zumboorucks (RED)
++zumboorucks
+ 
